@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19778#Alice-s-Abenteuer-im-Wunderland
 gutenberg_bookshelf:
 - Children's Literature
 - DE Kinderbuch

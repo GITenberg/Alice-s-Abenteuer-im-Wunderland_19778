@@ -1,0 +1,46 @@
+_repo: Alice-s-Abenteuer-im-Wunderland_19778
+_version: 0.1.0
+alternative_title: Alice's adventures in Wonderland. German
+contributor:
+  illustrator:
+    agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  translator:
+    agent_name: Zimmermann, Antonie
+    gutenberg_agent_id: '8879'
+    url: http://www.gutenberg.org/2009/agents/8879
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- DE Kinderbuch
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19778'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Fantasy literature'
+title: Alice's Abenteuer im Wunderland
+url: http://www.gutenberg.org/ebooks/19778
